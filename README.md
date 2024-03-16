@@ -67,10 +67,9 @@ echo "Bem-vindo ao meu script de boas-vindas!" > escrita.txt
 
 ## wc - conta linhas, palavras e caracteres de arquivos
 
-- '-c': Conta o número de caracteres de um ou mais arquivos;
-- '-l': Conta o número de linhas de um ou mais arquivos;
-- '-L': Conta o número de caracteres da maior linha do arquivo;
-- '-w': Conta as palavras de um ou mais arquivos.
+- `-c`: Conta o número de caracteres de um ou mais arquivos;
+- `-l`: Conta o número de linhas de um ou mais arquivos;
+- `-w`: Conta as palavras de um ou mais arquivos.
 
 
 ```bash
@@ -116,13 +115,13 @@ ls | grep ".txt"
 Para encontrar endereços de e-mail no arquivo `test-file`, utilize (EXPRESSÃO REGULAR INCORRETA):
 
 ```bash
-grep '^[a-zA-Z0-9]+@[a-zA-Z0-9]+\.[a-z]{2,}' test-file
+grep -E '^[a-zA-Z0-9]+@[a-zA-Z0-9]+\.[a-z]{2,}' email.txt
 ```
 
 (EXPRESSÃO REGULAR CORRETA)
 
 ```bash
-grep '^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$' test-file
+grep -E '^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$' email.txt
 ```
 
 - `^`: Este símbolo indica que a correspondência deve começar no início da cadeia.
