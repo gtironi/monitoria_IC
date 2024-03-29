@@ -67,6 +67,8 @@ echo "Bem-vindo ao meu script de boas-vindas!" > escrita.txt
 
 ## wc - conta linhas, palavras e caracteres de arquivos
 
+Parâmetros importantes:
+
 - `-c`: Conta o número de caracteres de um ou mais arquivos;
 - `-l`: Conta o número de linhas de um ou mais arquivos;
 - `-w`: Conta as palavras de um ou mais arquivos.
@@ -131,8 +133,72 @@ grep -E '^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$' email.txt
 - `\.[a-zA-Z]{2,}`: Isso corresponde a um ponto seguido de dois ou mais caracteres alfabéticos. Isso garante que a parte do domínio tenha pelo menos duas letras, como `.com`, `.org`, `.edu`, etc.
 - `$`: Este símbolo indica que a correspondência deve terminar no final da cadeia.
 
-## chmod - tornar o arquivo executável
+## uniq - Remove e conta linhas duplicadas
 
+Parâmetros importantes:
+
+- `-i`: Ignora a diferença entre letras maiúsculas e minúsculas.
+- `-c`: Conta também as ocorrências
+
+Por exemplo, para remover linhas duplicadas do arquivo `kt.txt`:
+```bash
+uniq kt.txt
+```
+
+Para contar as linhas duplicadas utilizando o comando `uniq`:
+```bash
+uniq -c kt.txt
+```
+
+## `sort` - Ordena as linhas de um arquivo
+
+Parâmetros importantes:
+
+- `-b`: Ignora espaços no início de cada linha.
+- `-f`: Ignora a diferença entre letras maiúsculas e minúsculas.
+- `-r`: Ordena em ordem reversa.
+- `-n`: Ordena numericamente.
+
+Por exemplo, para ordenar números em um arquivo `numeros.txt`:
+```bash
+sort -n numeros.txt
+```
+
+## `head` - Mostra as primeiras linhas de um arquivo
+
+Parâmetros importantes:
+
+- `-n num`: Mostra as primeiras 'num' linhas.
+- `-q`: Não mostra o nome do arquivo.
+
+Por exemplo, para mostrar as duas primeiras linhas dos arquivos `state.txt` e `capital.txt`:
+```bash
+head -qn 2 state.txt capital.txt
+```
+
+## `cut` - Remove parte de cada linha
+
+Parâmetros importantes:
+
+- `-c`: Seleciona apenas os caracteres especificados.
+- `-d`: Define o delimitador (padrão é TAB).
+- `-f`: Define qual campo selecionar.
+
+Por exemplo, para selecionar o 2º campo de um arquivo usando o delimitador ";" :
+```bash
+cut -d ";" -f 2 arquivo.txt
+```
+
+## `--help` - Exibe informações sobre os comandos
+
+Para exibir informações sobre o comando `grep`:
+```bash
+grep --help
+```
+
+## chmod - gerencia permissões de um arquivo
+
+Para dar permissão de execução:
 ```bash
 chmod +x arquivo
 ```
