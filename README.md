@@ -16,15 +16,15 @@ Assinado: ChatGPT
 mv [opções] origem destino
 ```
 
-Para renomear o arquivo `teste.txt` para `teste2.txt`, digite:
+Para renomear o arquivo `mover.txt` para `mover2.txt`, digite:
 
 ```bash
-mv teste.txt teste2.txt
+mv mover.txt mover2.txt
 ```
 
 Para mover o arquivo para o diretório pai, digite:
 ```bash
-mv arquivo1 ../
+mv mover.txt ../
 ```
 
 ## cp - copia arquivo
@@ -33,16 +33,16 @@ mv arquivo1 ../
 cp [opções] origem destino
 ```
 
-Para criar uma cópia do arquivo `teste.txt` com o nome `teste_bak.txt`, digite:
+Para criar uma cópia do arquivo `mover.txt` com o nome `mover_2.txt`, digite:
 
 ```bash
-cp teste.txt teste_bak.txt
+cp mover.txt mover_2.txt
 ```
 
 ## cat - junta arquivos
 
 ```bash
-cat [OPÇÃO] [ARQUIVO]
+cat [opções] [arquivo]
 ```
 
 Para mostrar todos os arquivos `.txt`, utilize:
@@ -54,7 +54,7 @@ cat *.txt
 Para criar um novo arquivo com a junção dos arquivos existentes, utilize:
 
 ```bash
-cat *.txt > junto.txt
+cat *.txt > juntos.txt
 ```
 
 ## echo - escreve
@@ -135,6 +135,10 @@ grep -E '^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$' email.txt
 
 ## uniq - Remove e conta linhas duplicadas
 
+```
+uniq [opções] [arquivo]
+```
+
 Parâmetros importantes:
 
 - `-i`: Ignora a diferença entre letras maiúsculas e minúsculas.
@@ -142,15 +146,19 @@ Parâmetros importantes:
 
 Por exemplo, para remover linhas duplicadas do arquivo `kt.txt`:
 ```bash
-uniq kt.txt
+uniq duplicados.txt
 ```
 
 Para contar as linhas duplicadas utilizando o comando `uniq`:
 ```bash
-uniq -c kt.txt
+uniq -c duplicados.txt
 ```
 
 ## `sort` - Ordena as linhas de um arquivo
+
+```
+sort [opções] [arquivo(s)]
+```
 
 Parâmetros importantes:
 
@@ -166,17 +174,25 @@ sort -n numeros.txt
 
 ## `head` - Mostra as primeiras linhas de um arquivo
 
+```
+head [opções] [arquivo]
+```
+
 Parâmetros importantes:
 
 - `-n num`: Mostra as primeiras 'num' linhas.
 - `-q`: Não mostra o nome do arquivo.
 
-Por exemplo, para mostrar as duas primeiras linhas dos arquivos `state.txt` e `capital.txt`:
+Por exemplo, para mostrar as duas primeiras linhas dos arquivos `historia.txt` e `email.txt`:
 ```bash
-head -qn 2 state.txt capital.txt
+head -qn 2 historia.txt email.txt
 ```
 
 ## `cut` - Remove parte de cada linha
+
+```
+head [opções] [arquivo]
+```
 
 Parâmetros importantes:
 
@@ -184,9 +200,9 @@ Parâmetros importantes:
 - `-d`: Define o delimitador (padrão é TAB).
 - `-f`: Define qual campo selecionar.
 
-Por exemplo, para selecionar o 2º campo de um arquivo usando o delimitador ";" :
+Por exemplo, para selecionar o 2º campo de um arquivo usando o delimitador "," :
 ```bash
-cut -d ";" -f 2 arquivo.txt
+cut -d "," -f2 csv.txt
 ```
 
 ## `--help` - Exibe informações sobre os comandos
