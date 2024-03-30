@@ -1,4 +1,6 @@
-head -qn1 ../Dados/machado/contos/*.txt | sed -E 's/(,|.)htm//g' | sed -E 's/,([0-9]{4})/, \1/g' | awk '{print $NF $0}' | LC_ALL=C sort -n | cut -d' ' -f2- > resposta_ex_3.txt
+#!/bin/bash
+
+head -qn1 ../dados/machado/contos/*.txt | sed -E 's/(,|.)htm//g' | sed -E 's/,([0-9]{4})/, \1/g' | awk '{print $NF $0}' | LC_ALL=C sort -n | cut -d' ' -f2- > resposta_ex_3.txt
 
 #head -qn1 ../Dados/machado/contos/*.txt: pega a primeira linha de todos os arquivos dentro da pasta contos
     #-q: parametro para não mostrar o cabeçalho

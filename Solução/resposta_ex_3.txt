@@ -1,137 +1,137 @@
-1870Conto, Contos Fluminenses, 1870
-1873Conto, Historias da Meia-Noite, 1873
-1882Conto, Papéis Avulsos, 1882
-1884Conto, Histórias sem Data, 1884
-1896Conto, Várias histórias, 1896
-1899Conto, Páginas Recolhidas, 1899
-1906Conto, Relíquias de Casa Velha, 1906
-1858Conto, Três Tesouros Perdidos, 1858
-1862Conto, O País das quimeras, 1862
-1864Conto, Virginius, 1864
-1864CONTO, Casada e viúva, 1864
-1864Conto, O anjo das donzelas, 1864
-1864Conto, Questão de Vaidade, 1864
-1865Conto, Cinco mulheres, 1865
-1866Conto, Uma excursão milagrosa, 1866
-1866Conto, Diana, 1866
-1866Conto, Felicidade pelo casamento, 1866
-1866Conto, Fernando e Fernanda, 1866
-1866Conto, O oráculo, 1866
-1866Conto, O pai, 1866
-1866Conto, A pianista, 1866
-1866Conto, O que são as moças, 1866
-1867Conto, Francisca, 1867
-1867Conto, História de uma lágrima, 1867
-1867Conto, Onda, 1867
-1867Conto, Possível e impossível, 1867
-1867Conto, O último dia de um poeta, 1867
-1868Conto, O carro n° 13, 1868
-1868Conto, Não é mel para boca de asno, 1868
-1869Conto, O anjo Rafael, 1869
-1870Conto, O capitão Mendonça, 1870
-1870Conto, O rei dos caiporas, 1870
-1870Conto, A vida eterna, 1870
-1871CONTO, Almas Agradecidas, 1871
-1871Conto, Ayres e Vergueiro, 1871
-1871Conto, O Caminho de Damasco, 1871
-1871Conto, Mariana, 1871
-1872Conto, Uma Águia sem Asas, 1872
-1872Conto, Uma loureira, 1872
-1872Conto, Qual dos Dois, 1872
-1872Conto, Quem Não Quer Ser Lobo, 1872
-1872Conto, Rui de Leão, 1872
-1873Conto, Decadência de dois grandes homens, 1873
-1873Conto, Um Homem superior, 1873
-1873Conto, Nem uma nem outra, 1873
-1873Conto, Quem conta um conto, 1873
-1873Conto, Tempo de crise, 1873
-1874Conto, Miloca, 1874
-1874Conto, Um dia de entrudo, 1874
-1874Conto, Muitos Anos Depois, 1874
-1874Conto, Os óculos de Pedro Antão, 1874
-1874Conto, Valério, 1874
-1875Conto, Antes que cases, 1875
-1875Conto, Brincar com fogo, 1875
-1875Conto, A Mágoa do infeliz Cosme, 1875
-1875Conto, Onze anos depois, 1875
-1875Conto, A última receita, 1875
-1875Conto, Um esqueleto, 1875
-1875Conto, O sainete, 1875
-1875Conto, Casa, não casa, 1875
-1876Conto, Longe dos Olhos, 1876
-1876Conto, O Astrólogo, 1876
-1876Conto, D. Mônica, 1876
-1876Conto, Encher tempo, 1876
-1876Conto, O Passado, o passado, 1876
-1876Conto, Sem olhos, 1876
-1876Conto, To be or not to be, 1876
-1876Conto, História de uma fita azul, 1876
-1877Conto, Um Almoço, 1877
-1877Conto, Um Ambicioso, 1877
-1877Conto, A melhor das noivas, 1877
-1877Conto, Silvestre, 1877
-1878Conto, Antes da Missa, 1878
-1878Conto, O Califa de Platina, 1878
-1878Conto, Um Cão de Lata ao Rabo, 1878
-1878Conto, Conversão de um avaro, 1878
-1878Conto, Dívida extinta, 1878
-1878Conto, Elogio da Vaidade, 1878
-1878Conto, Filosofia de um Par de Botas, 1878
-1878Conto, A Herança, 1878
-1878Conto, O Machete, 1878
-1878Conto, Folha Rota, 1878
-1879Conto, A chave, 1879
-1881Conto, O Caso da Viúva, 1881
-1881Conto, A mulher pálida, 1881
-1882Conto, O imortal, 1882
-1882Conto, Letra Vencida, 1882
-1882Conto, O programa, 1882
-1883Conto, A idéia do Ezequiel Maia, 1883
-1883Conto, Médico é remédio, 1883
-1883Conto, História comum, 1883
-1883Conto, O destinado, 1883
-1883Conto, Troca de datas, 1883
-1883Conto, Questões de maridos, 1883
-1883Conto, Três conseqüências, 1883
-1883Conto, Vidros quebrados, 1883
-1883Conto, Cantiga velha, 1883
-1883Conto, Metafísica das Rosas, 1883
-1884Conto, Trina e Una, 1884
-1884Conto, O contrato, 1884
-1884Conto, A Carteira, 1884
-1884Conto, O Melhor Remédio, 1884
-1884Conto, A Viúva Sobral, 1884
-1884Conto, Entre duas datas, 1884
-1884Conto, Vinte Anos! Vinte Anos!, 1884
-1884Conto, O Caso do Romualdo, 1884
-1884Conto, Uma Carta, 1884
-1885Conto, Só, 1885
-1885Conto, Habilidoso, 1885
-1885Conto, Viagem à roda de mim mesmo, 1885
-1886Conto, Curta História, 1886
-1886Conto, Um Dístico, 1886
-1866Conto, Astúcias de marido, 1866
-1886Conto, Pobre Cardeal, 1886
-1886Conto, Terpsícore, 1886
-1887Conto, Antes a Rocha Tarpéia, 1887
-1887Conto, Identidade, 1887
-1887Conto, Sales, 1887
-1889Conto, Dona Jucunda, 1889
-1890Conto, Como se inventaram os almanaques, 1890
-1891Conto, Pobre Finoca!, 1891
-1892Conto, O Caso Barreto, 1892
-1892Conto, Uma Partida, 1892
-1892Conto, Um Sonho e Outro Sonho, 1892
-1893Conto, Um Quarto de Século, 1893
-1893Conto, Vênus! Divina Vênus!, 1893
-1894Conto, A inglesinha Barcelos, 1894
-1894Conto, João Fernandes, 1894
-1895Conto, Uma Noite, 1895
-1895Conto, Orai por ele!, 1895
-1906Conto, Um Incêndio, 1906
-1897Conto, Uma por Outra, 1897
-1897Conto, Flor Anônima, 1897
-1904Conto, Jogo do Bicho, 1904
-1906Conto, O Escrivão Coimbra, 1906
-1859Conto, Bagatela, 1859
-1879Conto, Um para o outro, 1879
+Três Tesouros Perdidos, 1858
+Bagatela, 1859
+O País das quimeras, 1862
+Casada e viúva, 1864
+O anjo das donzelas, 1864
+Questão de Vaidade, 1864
+Virginius, 1864
+Cinco mulheres, 1865
+A pianista, 1866
+Astúcias de marido, 1866
+Diana, 1866
+Felicidade pelo casamento, 1866
+Fernando e Fernanda, 1866
+O oráculo, 1866
+O pai, 1866
+O que são as moças, 1866
+Uma excursão milagrosa, 1866
+Francisca, 1867
+História de uma lágrima, 1867
+O último dia de um poeta, 1867
+Onda, 1867
+Possível e impossível, 1867
+Não é mel para boca de asno, 1868
+O carro n° 13, 1868
+O anjo Rafael, 1869
+A vida eterna, 1870
+Contos Fluminenses, 1870
+O capitão Mendonça, 1870
+O rei dos caiporas, 1870
+Almas Agradecidas, 1871
+Ayres e Vergueiro, 1871
+Mariana, 1871
+O Caminho de Damasco, 1871
+Qual dos Dois, 1872
+Quem Não Quer Ser Lobo, 1872
+Rui de Leão, 1872
+Uma loureira, 1872
+Uma Águia sem Asas, 1872
+Decadência de dois grandes homens, 1873
+Historias da Meia-Noite, 1873
+Nem uma nem outra, 1873
+Quem conta um conto, 1873
+Tempo de crise, 1873
+Um Homem superior, 1873
+Miloca, 1874
+Muitos Anos Depois, 1874
+Os óculos de Pedro Antão, 1874
+Um dia de entrudo, 1874
+Valério, 1874
+A Mágoa do infeliz Cosme, 1875
+A última receita, 1875
+Antes que cases, 1875
+Brincar com fogo, 1875
+Casa, não casa, 1875
+O sainete, 1875
+Onze anos depois, 1875
+Um esqueleto, 1875
+D. Mônica, 1876
+Encher tempo, 1876
+História de uma fita azul, 1876
+Longe dos Olhos, 1876
+O Astrólogo, 1876
+O Passado, o passado, 1876
+Sem olhos, 1876
+To be or not to be, 1876
+A melhor das noivas, 1877
+Silvestre, 1877
+Um Almoço, 1877
+Um Ambicioso, 1877
+A Herança, 1878
+Antes da Missa, 1878
+Conversão de um avaro, 1878
+Dívida extinta, 1878
+Elogio da Vaidade, 1878
+Filosofia de um Par de Botas, 1878
+Folha Rota, 1878
+O Califa de Platina, 1878
+O Machete, 1878
+Um Cão de Lata ao Rabo, 1878
+A chave, 1879
+Um para o outro, 1879
+A mulher pálida, 1881
+O Caso da Viúva, 1881
+Letra Vencida, 1882
+O imortal, 1882
+O programa, 1882
+Papéis Avulsos, 1882
+A idéia do Ezequiel Maia, 1883
+Cantiga velha, 1883
+História comum, 1883
+Metafísica das Rosas, 1883
+Médico é remédio, 1883
+O destinado, 1883
+Questões de maridos, 1883
+Troca de datas, 1883
+Três conseqüências, 1883
+Vidros quebrados, 1883
+A Carteira, 1884
+A Viúva Sobral, 1884
+Entre duas datas, 1884
+Histórias sem Data, 1884
+O Caso do Romualdo, 1884
+O Melhor Remédio, 1884
+O contrato, 1884
+Trina e Una, 1884
+Uma Carta, 1884
+Vinte Anos! Vinte Anos!, 1884
+Habilidoso, 1885
+Só, 1885
+Viagem à roda de mim mesmo, 1885
+Curta História, 1886
+Pobre Cardeal, 1886
+Terpsícore, 1886
+Um Dístico, 1886
+Antes a Rocha Tarpéia, 1887
+Identidade, 1887
+Sales, 1887
+Dona Jucunda, 1889
+Como se inventaram os almanaques, 1890
+Pobre Finoca!, 1891
+O Caso Barreto, 1892
+Um Sonho e Outro Sonho, 1892
+Uma Partida, 1892
+Um Quarto de Século, 1893
+Vênus! Divina Vênus!, 1893
+A inglesinha Barcelos, 1894
+João Fernandes, 1894
+Orai por ele!, 1895
+Uma Noite, 1895
+Várias histórias, 1896
+Flor Anônima, 1897
+Uma por Outra, 1897
+Páginas Recolhidas, 1899
+Jogo do Bicho, 1904
+O Escrivão Coimbra, 1906
+Relíquias de Casa Velha, 1906
+Um Incêndio, 1906

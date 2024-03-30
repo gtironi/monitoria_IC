@@ -1,4 +1,6 @@
-head -qn1 ../Dados/machado/*/*.txt | sed -E 's/(,|.)htm//g' | cut -d' ' -f2- | sort -bdf > resposta_ex_2.txt
+#!/bin/bash
+
+head -qn1 ../dados/machado/*/*.txt | sed -E 's/(,|.)htm//g' | cut -d' ' -f2- | sort -bdf > resposta_ex_2.txt
 
 #head -qn1 ../Dados/machado/*/*.txt: pega a primeira linha de todos os arquivos de todas as pastas dentro de machado
     #-q: parametro para não mostrar o cabeçalho

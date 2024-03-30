@@ -1,4 +1,6 @@
-cat ../Dados/machado/*/*.txt | wc -w > resposta_ex_1.txt
+#!/bin/bash
+
+cat ../dados/machado/*/*.txt | wc -w > resposta_ex_1.txt
 
 # cat ../Dados/machado/*/*.txt: junta todos os arquivos de todas as pastas dentro de machado
 # wc -w: Conta todas as palavras desse arquivo
