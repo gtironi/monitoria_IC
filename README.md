@@ -54,7 +54,7 @@ cat *.txt
 Para criar um novo arquivo com a junção dos arquivos existentes, utilize:
 
 ```bash
-cat *.txt > juntos.txt
+cat *.txt > junto.txt
 ```
 
 ## echo - escreve
@@ -114,7 +114,7 @@ Para encontrar arquivos `.txt` no diretório atual, utilize:
 ls | grep ".txt"
 ```
 
-Para encontrar endereços de e-mail no arquivo `test-file`, utilize (EXPRESSÃO REGULAR INCORRETA):
+Para encontrar endereços de e-mail no arquivo `email.txt`, utilize (EXPRESSÃO REGULAR INCORRETA):
 
 ```bash
 grep -E '^[a-zA-Z0-9]+@[a-zA-Z0-9]+\.[a-z]{2,}' email.txt
@@ -144,7 +144,7 @@ Parâmetros importantes:
 - `-i`: Ignora a diferença entre letras maiúsculas e minúsculas.
 - `-c`: Conta também as ocorrências
 
-Por exemplo, para remover linhas duplicadas do arquivo `kt.txt`:
+Por exemplo, para remover linhas duplicadas do arquivo `duplicados.txt`:
 ```bash
 uniq duplicados.txt
 ```
@@ -191,7 +191,7 @@ head -qn 2 historia.txt email.txt
 ## `cut` - Remove parte de cada linha
 
 ```
-head [opções] [arquivo]
+cut [opções] [arquivo]
 ```
 
 Parâmetros importantes:
@@ -202,7 +202,7 @@ Parâmetros importantes:
 
 Por exemplo, para selecionar o 2º campo de um arquivo usando o delimitador "," :
 ```bash
-cut -d "," -f2 csv.txt
+cut -d',' -f2 csv.txt
 ```
 
 ## `--help` - Exibe informações sobre os comandos
