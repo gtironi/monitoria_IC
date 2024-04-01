@@ -1,4 +1,3 @@
-   2919 
    1927 Que
    1699 a
    1649 de
@@ -1463,6 +1462,7 @@
       5 Adeus
       5 Acredito
       5 Abraçou
+      5 
       4 último
       4 órfã
       4 íntimo

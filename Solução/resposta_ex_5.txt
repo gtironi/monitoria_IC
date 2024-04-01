@@ -1,4 +1,3 @@
-  97079 
   82214 que
   78462 a
   76953 de
@@ -793,6 +792,7 @@
     326 prazer
     326 Você
     326 Acabar
+    326 
     325 cama
     325 beleza
     325 apareceu
