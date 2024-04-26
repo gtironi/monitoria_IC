@@ -1,0 +1,1 @@
+Arquivo feito para o comando 'mv' e 'cp'
