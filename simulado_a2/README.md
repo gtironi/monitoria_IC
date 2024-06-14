@@ -170,8 +170,5 @@ Complete o código abaixo:
 
 ```python
 def fatorial(n):
-    if n == 0 or n == 1:
-        return #complete aqui
-    else:
-        return n * #complete aqui
+    #coloque seu código aqui
 ```
