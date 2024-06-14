@@ -30,9 +30,9 @@ Escreva uma função em Python que determine o resultado de um jogo da velha em 
 A matriz será representada por uma lista de listas com os caracteres 'X', 'O', como o exemplo abaixo:
 
 ```
-[[X O O],
-[O X O],
-[X O X]]
+[[X, O, O],
+[O, X, O],
+[X, O, X]]
 ```
 
 *Obs: A função sempre receberá um tabuleiro completo, isto é, não haverá espaços vazios na matriz.*
