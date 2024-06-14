@@ -8,6 +8,7 @@ Escreva um programa em Python que leia um arquivo de texto e conte o número tot
 - O programa deve solicitar ao usuário o nome do arquivo.
 - Deve remover pontuações e transformar todas as palavras para letras minúsculas.
 - Deve contar e exibir o número total de palavras.
+- 
 
 **Exemplo de Entrada:**
 ```
@@ -18,29 +19,45 @@ Nome do arquivo: exemplo.txt
 Número total de palavras: 42 palavras
 ```
 
-### 2 - Verificação de matriz identidade
+### 2 - Jogo da Velha
 
-**Descrição:**
+Escreva uma função em Python que determine o resultado de um jogo da velha em uma matriz 3x3. A função deve retornar:
 
-Escreva um programa em Python que receba uma matriz quadrada de ordem `n` e determine se ela é uma matriz de identidade. Uma matriz de identidade é uma matriz quadrada em que todos os elementos da diagonal principal são 1 e todos os outros elementos são 0.
+- `-1` se houve empate ou se ninguém venceu,
+- `0` se o vencedor foi 'X',
+- `1` se o vencedor foi 'O'.
 
-**Requisitos:**
-- O programa deve solicitar ao usuário o tamanho `n` da matriz.
-- O programa deve solicitar ao usuário os elementos da matriz.
-- O programa deve verificar se a matriz é uma matriz de identidade e imprimir o resultado.
-
-**Exemplo de Entrada:**
-```
-Tamanho da matriz: 3
-Matriz:
-[[1 0 0],
-[0 1 0],
-[0 0 1]]
-```
-**Exemplo de Saída:**
+A matriz será representada por uma lista de listas com os caracteres 'X', 'O', como o exemplo abaixo:
 
 ```
-A matriz é uma matriz de identidade.
+[[X O O],
+[O X O],
+[X O X]]
+```
+
+*Obs: A função sempre receberá um tabuleiro completo, isto é, não haverá espaços vazios na matriz.*
+
+Complete o código abaixo:
+
+```python
+def verificar_vencedor(tabuleiro):
+    # Verifica linhas
+    for linha in tabuleiro:
+        if linha[0] == linha[1] == linha[2]:
+            #complete aqui
+    
+    # Verifica colunas
+    for i in range(3):
+        if #complete aqui :
+            #complete aqui
+    
+    # Verifica diagonais
+    if tabuleiro[0][0] == tabuleiro[1][1] == tabuleiro[2][2]:
+        #complete aqui
+    if tabuleiro[0][2] == tabuleiro[1][1] == tabuleiro[2][0]:
+        #complete aqui
+    
+    return #complete aqui
 ```
 
 ### 3 - Matriz - Soma dos elementos da diagonal secundária
@@ -88,19 +105,29 @@ def soma_diagonal_secundaria(matriz):
     return soma
 ```
 
+E)
+```python
+def soma_diagonal_secundaria(matriz):
+    soma = 0
+    n = len(matriz)
+    for i in range(1, n+1):
+        soma += matriz[i-1][n-i]
+    return soma
+```
+
 ### 4 - Complete o Código
 
 A função abaixo deve reorganizar os elementos de uma lista em uma matriz com as dimensões dadas. Por exemplo, dada a lista  $L = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]$, a chamada $v2m(L, 5, 2)$ retorna a matriz:
 
-$
+```
 [[1, 2], [3, 4], [5, 6], [7, 8], [9, 10]] 
-$
+```
 
 Já a chamada $v2m(L, 2, 5)$ retorna a matriz:
 
-$
+```
 [[1, 2, 3, 4, 5], [6, 7, 8, 9, 10]] 
-$
+```
 
 Complete as lacunas no código abaixo para que a função funcione corretamente.
 
@@ -132,3 +159,19 @@ Complete as lacunas com as opções corretas:
     - B) `linha`
     - C) `num_lin`
     - D) `num_col`
+
+### 5 - Fatorial
+Escreva uma função recursiva em Python que calcule o fatorial de um número inteiro positivo. O fatorial de um número $n$ é o produto de todos os números inteiros positivos de 1 até $n$.
+
+A função deve ser chamada fatorial e receber um inteiro positivo $n$ como argumento. A função deve retornar o fatorial de $n$.
+
+
+Complete o código abaixo:
+
+```python
+def fatorial(n):
+    if n == 0 or n == 1:
+        return #complete aqui
+    else:
+        return n * #complete aqui
+```
