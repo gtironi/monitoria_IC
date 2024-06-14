@@ -54,7 +54,7 @@ def verificar_vencedor(tabuleiro):
     # Verifica diagonais
     if tabuleiro[0][0] == tabuleiro[1][1] == tabuleiro[2][2]:
         #complete aqui
-    if tabuleiro[0][2] == tabuleiro[1][1] == tabuleiro[2][0]:
+    if #complete aqui :
         #complete aqui
     
     return #complete aqui
@@ -111,7 +111,7 @@ def soma_diagonal_secundaria(matriz):
     soma = 0
     n = len(matriz)
     for i in range(1, n+1):
-        soma += matriz[i-1][n-i]
+        soma += matriz[i][i]
     return soma
 ```
 
@@ -150,7 +150,7 @@ Complete as lacunas com as opções corretas:
 
 1. linha.append(__________)
     - A) `v[j*num_col + i]`
-    - B) `v[num_col*j + i]`
+    - B) `v[num_col*i + j]`
     - C) `v[num_lin*i + j]`
     - D) `v[num_lin*j + i]`
 
@@ -164,7 +164,6 @@ Complete as lacunas com as opções corretas:
 Escreva uma função recursiva em Python que calcule o fatorial de um número inteiro positivo. O fatorial de um número $n$ é o produto de todos os números inteiros positivos de 1 até $n$.
 
 A função deve ser chamada fatorial e receber um inteiro positivo $n$ como argumento. A função deve retornar o fatorial de $n$.
-
 
 Complete o código abaixo:
 
